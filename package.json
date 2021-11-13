@@ -1,11 +1,12 @@
 {
   "name": "strtoms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert string to milliseconds",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "typings": "./index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hanai/strtoms.git"
