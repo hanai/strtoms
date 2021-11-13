@@ -1,0 +1,23 @@
+{
+  "name": "strtoms",
+  "version": "0.0.1",
+  "description": "Convert string to milliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanai/strtoms.git"
+  },
+  "keywords": [
+    "time",
+    "ms"
+  ],
+  "author": "Hanai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanai/strtoms/issues"
+  },
+  "homepage": "https://github.com/hanai/strtoms#readme"
+}
